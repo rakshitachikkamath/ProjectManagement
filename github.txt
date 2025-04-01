@@ -1,1 +1,7 @@
 GitHub is a web-based platform that uses Git, a version control system, to help developers manage and track changes in their code. It allows multiple people to collaborate on a project, track revisions, and contribute to code from anywhere in the world. GitHub offers both free and paid plans, catering to individuals and large organizations alike.
+Key Features of GitHub
+1. Version Control
+GitHub’s core functionality is based on Git, which allows you to keep track of changes in your code over time. This means you can always revert to a previous version if something goes wrong, compare different versions, and understand the history of your project.
+
+2. Repositories
+A repository (or repo) is a central place where all the files for a project are stored. Each repository can hold multiple files and folders, and it tracks the history of every change made. Repositories can be public (accessible to everyone) or private (restricted access).
